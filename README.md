@@ -7,4 +7,4 @@ Freatures:
   * air moisture and temprature
   * light
 * Save data to SD card
-* Display data om LCD
+* Display data on LCD
